@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Text and Typography
 author: cotes
 date: 2019-08-08 11:33:00 +0800
@@ -192,4 +192,4 @@ fi;
 ## Reverse Footnote
 
 [^footnote]: The footnote source
-[^fn-nth-2]: The 2nd footnote source
+[^fn-nth-2]: The 2nd footnote source -->
