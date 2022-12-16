@@ -1,11 +1,11 @@
-# The layout text of site
+# The layout text of sitecattag
 
 # ----- Commons label -----
 
 layout:
   post: Post
-  category: Category
-  tag: Tag
+  # category: Category
+  # tag: Tag
 
 # The tabs of sidebar
 tabs:
@@ -83,11 +83,11 @@ df:
     strftime: '%b'
     dayjs: 'MMM'
 
-# categories page
-categories:
-  category_measure:
-    singular: category
-    plural: categories
-  post_measure:
-    singular: post
-    plural: posts
+# # categories page
+# categories:
+#   category_measure:
+#     singular: category
+#     plural: categories
+#   post_measure:
+#     singular: post
+#     plural: posts
